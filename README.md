@@ -1,5 +1,5 @@
 # supreme-lamp--1
->This is for submision of lesson zero -1
+This is for submision of lesson zero -1
 
 >In This repo i had push two cli application:
 
