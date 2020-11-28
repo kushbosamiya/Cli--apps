@@ -1,7 +1,7 @@
 # supreme-lamp--1
-this is for submision of lesson zero -1
+>This is for submision of lesson zero -1
 
-In This repo i had push two cli application:
+>In This repo i had push two cli application:
 
 # My first cli app
 > In this , I have made cli app which is for providing feedback ,faq's of Instagram application to its teams.
