@@ -1,4 +1,4 @@
-# cli apps-1
+# Cli apps-1
 This is for submision of lesson zero -1
 
 >In This repo i had push three cli application:
