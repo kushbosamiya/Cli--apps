@@ -20,3 +20,7 @@ This is for submision of lesson zero -1
 > In this i ha also used several libraries like:
 -chalk
 -readline-sync (sublibrary-keyinselect)
+
+# fourth Instagram Faq cli app
+> In this iahev made a instagram faq cli app which made by js 
+libraraies like chalk and others.
