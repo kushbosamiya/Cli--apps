@@ -30,7 +30,8 @@ if(questions[i].answer===userans)
 {
   console.log('right ! your answer is ' +userans)
   score++;
-}else{
+}
+  else{
   console.log('wrong answer** \n answer is '+questions[i].answer)
   
 }}
