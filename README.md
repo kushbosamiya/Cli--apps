@@ -1,11 +1,11 @@
-# Cli apps-1
+# Cli Apps
 This is for submision of lesson zero -1
 
->In This repo i had push three cli application:
+>In This repo I had push three cli application:
 
 # My first cli app
 > In this , I have made cli app which is for providing feedback ,faq's of Instagram application to its teams.
-> In this i had also use libraries like:
+> In this I had also use libraries like:
 -chalk
 -readline-sync
 
